@@ -10,3 +10,4 @@ urlpatterns = [
          MovieRetrieveUpdateDestroyView.as_view(),
          name="movie-detail"),
 ]
+
